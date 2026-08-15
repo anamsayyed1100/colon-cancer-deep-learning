@@ -169,8 +169,6 @@ colon-cancer-histopathology-deep-learning/
 │
 ├── notebooks/
 │   └── Colon_cancer_Histopathology_ResNet50.ipynb
-│
-└── results/
 
  Key Learning Outcomes
 
