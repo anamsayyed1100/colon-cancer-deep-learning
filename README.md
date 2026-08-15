@@ -168,12 +168,9 @@ colon-cancer-histopathology-deep-learning/
 ├── requirements.txt
 │
 ├── notebooks/
-│   └── Colon_cancer.ipynb
+│   └── Colon_cancer_Histopathology_ResNet50.ipynb
 │
 └── results/
-    ├── training_validation_accuracy.png
-    ├── training_validation_loss.png
-    └── confusion_matrix.png
 
  Key Learning Outcomes
 
